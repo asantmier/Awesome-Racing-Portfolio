@@ -1,7 +1,7 @@
 # Awesome Racing
 ![mpc-hc64_kXKAUC8qVM](https://github.com/asantmier/Awesome-Racing-Portfolio/assets/91630046/feb7f84d-db40-41f7-b72f-316cbc84de85)
 
-This is a 3D racing game based on an early prototype of Burnin' Rubber! for a separate, CS focused game design calss.
+This is a 3D racing game based on an early prototype of Burnin' Rubber! for a separate, CS focused game design class.
 This project is also a prototype made in Unity (C#) and while less mechanically complex, has some fancier visuals and 
 makes use of AI navigation. The AI cars have physics based controls and more or less the same capabilities as the player
 so designing a solution for them to competently race around the track was a serious challenge.
